@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(48, 31, 60);
+    color: rgb(147, 251, 57);
+    font-family: 'Comic sans ms';
+}
+
+#zone-numbers > input {
+    width: 70px;
+}
